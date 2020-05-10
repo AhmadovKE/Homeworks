@@ -1,0 +1,16 @@
+
+
+#first{
+    background-color:gray;
+    text-align: center;
+}
+td{
+   text-align: center;
+}
+table, th, td {
+    border: 1px solid black;
+}
+caption{
+    background-color: #d8d9d0;
+    font-size: 20px;
+}
